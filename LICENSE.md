@@ -1,4 +1,4 @@
-# 
+# 轻量 Kaspersky Total Security 插件 Mac OS版 | 安全 Kaspersky Total Security 插件 PC Windows版。集成 安全分享 和 防火墙安全，跨平台性能最大化。
 
 
 
